@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\Github\Debugging-Lab\source\transpose.cu" />
+    <CustomBuild Include="D:\Documents\Github\Debugging-Lab\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\Documents\Github\Debugging-Lab\build\CMakeFiles\transpose.dir\source\$(Configuration)\transpose_generated_transpose.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{BA2D969B-CC4D-386F-AF60-8BBABD309398}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
